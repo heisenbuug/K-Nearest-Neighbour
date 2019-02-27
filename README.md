@@ -6,7 +6,9 @@ K-Nearest Neighbors is one of the most basic yet essential classification algori
 
 It is widely disposable in real-life scenarios since it is non-parametric, meaning, it does not make any underlying assumptions about the distribution of data (as opposed to other algorithms such as GMM, which assume a Gaussian distribution of the given data).
 
-I have also mentioned the case where this algo fails for k = 3
+I have also mentioned the case where this algo fails for k = 3 and have also mentioned some special cases which it solves like donut problem and XOR data issue.
+
+Data used is MNIST dataset
 
 ## Technologies Used
 * Python
